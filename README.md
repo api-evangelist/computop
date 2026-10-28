@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Computop is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://computop.com/
+Computop is a German payment service provider offering an omnichannel payment gateway for e‑commerce, mobile commerce, point‑of‑sale and payment‑by‑link solutions. It supports a wide range of payment methods, provides analytics, fraud prevention and integration plugins for many shop systems, and serves merchants across Europe and beyond.
+
+**Areas:** Payments · FinTech · E-commerce · Germany · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://computop.com/)
+- [Documentation](https://developer.computop.com)
+- [API reference](https://developer.computop.com)
+- [Support](https://computop.com/de/support/)
+- [Blog](https://computop.com/de/news/)
+- [Terms of service](https://computop.com/de/agb/)
+- [Privacy policy](https://computop.com/de/datenschutz/)
+- [GitHub](https://github.com/computop)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/computop/](https://apis.io/providers/computop/).
